@@ -1,4 +1,4 @@
-### Hi there 👋
+Oi pessoas!! Eu sou o Rafael Lucas, estudante de Analise e Desenvolvimento de Sistemas👋
 
 <!--
 **rafaellsp/rafaellsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
