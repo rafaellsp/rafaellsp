@@ -29,9 +29,10 @@
 <div style="display: inline_block">
   <p>
     <img align="center" alt="Rafa-django" height="50" width="50" src="https://skillicons.dev/icons?i=django">
-    <img align="center" alt="Rafa-flask" height="50" width="50" src="https://skillicons.dev/icons?i=flask&theme=light">
-    <img align="center" alt="Rafa-postman" height="50" width="50" src="https://skillicons.dev/icons?i=mysql&theme=light">
-     <img align="center" alt="Rafa-postman" height="50" width="50" src="https://skillicons.dev/icons?i=postman">
+    <img align="center" alt="Rafa-flask" height="50" width="50" src="https://skillicons.dev/icons?i=flask">
+    <img align="center" alt="Rafa-postman" height="50" width="50" src="https://skillicons.dev/icons?i=postman">
+    <img align="center" alt="Rafa-postman" height="50" width="50" src="https://skillicons.dev/icons?i=mysql">
+   
     
   </p>
   
