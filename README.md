@@ -17,11 +17,13 @@
 
 ## 🐍 Ferramentas e Linguagens
 <div style="display: inline_block">
-
+  
+<p>
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=js">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=py">
+</p>
   
 </div>
 
@@ -29,10 +31,12 @@
 
 <div style="display: inline_block">
   
+<p>
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=django">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=flask&theme=light">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=postman&theme=light">
-    
+</p>  
+  
 </div>
   
 
