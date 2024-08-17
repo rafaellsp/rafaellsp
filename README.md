@@ -38,7 +38,6 @@
   
 </div>
 
-  ![Snake animation](https://githunb.com/rafaellsp/rafaellsp/blob/outpit/github-contribution-grid-snake.svg)
 
   
   <!-- <div style="display: inline_block"><br>
