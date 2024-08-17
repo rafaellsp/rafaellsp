@@ -7,7 +7,7 @@
 - Procuro novas oportunidades para crescer pessoal e profissionalmente.
 - Amante de tecnologia, música e jogos.
 
-## Stats 
+## 
 <div>
   <a href="https://github.com/rafaellsp">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaellsp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
