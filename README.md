@@ -32,9 +32,9 @@
 <div style="display: inline_block">
   
 <p>
-  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://skillicons.dev/icons?i=django">
-  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://skillicons.dev/icons?i=flask&theme=light">
-  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://skillicons.dev/icons?i=postman&theme=light">
+  <img align="center" alt="Rafa-Python" height="50" width="30" src="https://skillicons.dev/icons?i=django">
+  <img align="center" alt="Rafa-Python" height="50" width="30" src="https://skillicons.dev/icons?i=flask&theme=light">
+  <img align="center" alt="Rafa-Python" height="50" width="30" src="https://skillicons.dev/icons?i=postman&theme=light">
 </p>  
   
 </div>
