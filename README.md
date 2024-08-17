@@ -1,10 +1,9 @@
 ## Oi pessoas!!
 
 ## Sobre mim
-- 🎲 Eu trabalho com dados and web
-- 🌱 Procuro novas oportunidades para crescer pessoal e profissionalmente.
+-  Eu trabalho com dados and web
+-  Procuro novas oportunidades para crescer pessoal e profissionalmente.
 -  Amante de tecnologia, musica e jogos 
-
 
 
 
@@ -27,6 +26,23 @@
 </div>
   
   
+## 🐍 Ferramentas e Linguagens
+
+### Uso Diário
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=2e8b57" alt="Python" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white&color=2e8b57" alt="pandas" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white&color=2e8b57" alt="numpy" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white&color=2e8b57" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=white&color=2e8b57" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&color=2e8b57" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&color=2e8b57" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&color=2e8b57" alt="VSCode" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&color=2e8b57" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&color=2e8b57" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=azure&logoColor=white&color=2e8b57" alt="Azure" />
+</p>
+
 
 
 
@@ -34,7 +50,6 @@
 
 
    <!--
-**leticia-oliv/leticia-oliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
