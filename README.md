@@ -1,9 +1,6 @@
 ## Oi pessoas!!
 
-**rafaellsp/rafaellsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Sobre mim
 - 🎲 Eu trabalho com dados and web
 - 🌱 Procuro novas oportunidades para crescer pessoal e profissionalmente.
 -  Amante de tecnologia, musica e jogos 
