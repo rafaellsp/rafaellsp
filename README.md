@@ -3,9 +3,9 @@
 <img align="right" src="https://pa1.aminoapps.com/7047/8935f613554223de514925a6e209bf64ad734793r1-500-264_hq.gif" width="150px" alt="Avatar">
 
 ### Sobre mim
-- Trabalho com dados e web.
-- Procuro novas oportunidades para crescer pessoal e profissionalmente.
-- Amante de tecnologia, música e jogos.
+- 💻 Trabalho com dados e web.
+- 🚀 Procuro novas oportunidades para crescer pessoal e profissionalmente.
+- 🎮 Amante de tecnologia, música e jogos.
 
 ## 
 <div>
