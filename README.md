@@ -1,43 +1,39 @@
 ## Oi pessoas!!
 
-## Sobre mim
--  Eu trabalho com dados and web
--  Procuro novas oportunidades para crescer pessoal e profissionalmente.
--  Amante de tecnologia, musica e jogos 
-
 <img align="right" src="https://pa1.aminoapps.com/7047/8935f613554223de514925a6e209bf64ad734793r1-500-264_hq.gif" width="150px" alt="Avatar">
 
+### Sobre mim
+- Trabalho com dados e web.
+- Procuro novas oportunidades para crescer pessoal e profissionalmente.
+- Amante de tecnologia, música e jogos.
 
+## Stats 
 <div>
   <a href="https://github.com/rafaellsp">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaellsp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellsp&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaellsp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellsp&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
-
 
 ## 🐍 Ferramentas e Linguagens
 <div style="display: inline_block">
-  
-<p>
-  <img align="center" alt="Rafa-python" height="50" width="30" src="https://skillicons.dev/icons?i=py">
-  <img align="center" alt="Rafa-html" height="50" width="30" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="Rafa-css" height="50" width="30" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="Rafa-js" height="50" width="30" src="https://skillicons.dev/icons?i=js">
-</p>
-  
+  <p>
+    <img align="center" alt="Rafa-python" height="50" width="50" src="https://skillicons.dev/icons?i=py">
+    <img align="center" alt="Rafa-html" height="50" width="50" src="https://skillicons.dev/icons?i=html">
+    <img align="center" alt="Rafa-css" height="50" width="50" src="https://skillicons.dev/icons?i=css">
+    <img align="center" alt="Rafa-js" height="50" width="50" src="https://skillicons.dev/icons?i=js">
+  </p>
 </div>
 
-## Estou Aprendendo
-
+## 📚 Estou Aprendendo
 <div style="display: inline_block">
-  
-<p>
-  <img align="center" alt="Rafa-django" height="50" width="30" src="https://skillicons.dev/icons?i=django">
-  <img align="center" alt="Rafa-flask" height="50" width="30" src="https://skillicons.dev/icons?i=flask&theme=light">
-  <img align="center" alt="Rafa-postman" height="50" width="30" src="https://skillicons.dev/icons?i=postman&theme=light">
-</p>  
-  
+  <p>
+    <img align="center" alt="Rafa-django" height="50" width="50" src="https://skillicons.dev/icons?i=django">
+    <img align="center" alt="Rafa-flask" height="50" width="50" src="https://skillicons.dev/icons?i=flask">
+    <img align="center" alt="Rafa-postman" height="50" width="50" src="https://skillicons.dev/icons?i=postman">
+  </p>
 </div>
+
   
 
   
