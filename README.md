@@ -15,14 +15,29 @@
 </div>
 
 
+## 🐍 Ferramentas e Linguagens
+
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=js">
-   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=py">
-    <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=django">
+  <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=py">
   
 </div>
+
+### Estou Aprendendo
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=django">
+  <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=flask&theme=light">
+  <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=postman&theme=light">
+  
+  
+  
+</div>
+  
+
   
   <!-- <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
