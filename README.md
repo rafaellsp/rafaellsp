@@ -5,7 +5,7 @@
 -  Procuro novas oportunidades para crescer pessoal e profissionalmente.
 -  Amante de tecnologia, musica e jogos 
 
-<img allign="right" src="https://pa1.aminoapps.com/7047/8935f613554223de514925a6e209bf64ad734793r1-500-264_hq.gif" width="100px" alt="avatar">
+<img align="right" src="https://pa1.aminoapps.com/7047/8935f613554223de514925a6e209bf64ad734793r1-500-264_hq.gif" width="150px" alt="Avatar">
 
 
 <div>
