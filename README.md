@@ -16,8 +16,8 @@
 
 
 ## 🐍 Ferramentas e Linguagens
-<div style="display: inline_block"><br>
-  
+<div style="display: inline_block">
+
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=html">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=css">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=js">
@@ -26,13 +26,13 @@
 </div>
 
 ### Estou Aprendendo
+
 <div style="display: inline_block">
+  
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=django">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=flask&theme=light">
   <img align="center" alt="Rafa-Python" height="100" width="40" src="https://skillicons.dev/icons?i=postman&theme=light">
-  
-  
-  
+    
 </div>
   
 
