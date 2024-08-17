@@ -19,10 +19,10 @@
 <div style="display: inline_block">
   
 <p>
-  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://skillicons.dev/icons?i=py">
-  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="Rafa-Python" height="50" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="Rafa-python" height="50" width="30" src="https://skillicons.dev/icons?i=py">
+  <img align="center" alt="Rafa-html" height="50" width="30" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="Rafa-css" height="50" width="30" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Rafa-js" height="50" width="30" src="https://skillicons.dev/icons?i=js">
 </p>
   
 </div>
@@ -32,9 +32,9 @@
 <div style="display: inline_block">
   
 <p>
-  <img align="center" alt="Rafa-Python" height="50" width="30" src="https://skillicons.dev/icons?i=django">
-  <img align="center" alt="Rafa-Python" height="50" width="30" src="https://skillicons.dev/icons?i=flask&theme=light">
-  <img align="center" alt="Rafa-Python" height="50" width="30" src="https://skillicons.dev/icons?i=postman&theme=light">
+  <img align="center" alt="Rafa-django" height="50" width="30" src="https://skillicons.dev/icons?i=django">
+  <img align="center" alt="Rafa-flask" height="50" width="30" src="https://skillicons.dev/icons?i=flask&theme=light">
+  <img align="center" alt="Rafa-postman" height="50" width="30" src="https://skillicons.dev/icons?i=postman&theme=light">
 </p>  
   
 </div>
