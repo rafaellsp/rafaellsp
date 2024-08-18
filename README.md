@@ -51,12 +51,11 @@
      <img align="center" alt="Rafa-mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </p>
 
-   ![snake gif](https://github.com/rafaellsp/rafaellsp/blob/output/github-contribution-grid-snake.svg)
+   
 </div>
 
-<div>
- 
-</div>
+![snake gif](https://github.com/rafaellsp/rafaellsp/blob/output/github-contribution-grid-snake.svg)
+
 
 
   
