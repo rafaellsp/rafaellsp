@@ -16,17 +16,28 @@
 </div>
 
 ## 🐍 Ferramentas e Linguagens
+
+### Uso diario
 <div style="display: inline_block">
-  
   <p>
     <img align="center" alt="Rafa-html" height="25" width="75" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="Rafa-html" height="25" width="75" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="Rafa-css"  height="25" width="75" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="Rafa-js"   height="25" width="75" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="Rafa-js"   height="25" width="75" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    
-    
-    
+    <img align="center" alt="Rafa-git"   height="25" width="75" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    <img align="center" alt="Rafa-github"   height="25" width="75" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img align="center" alt="Rafa-jupyter"   height="25" width="75" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
+    <img align="center" alt="Rafa-jupyter"   height="25" width="75" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+    <img align="center" alt="Rafa-jupyter"   height="25" width="75" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+  </p>
+</div>
+
+### Conhecimento basico
+<div style="display: inline_block">
+  <p>
+    <img align="center" alt="Rafa-pandas"   height="25" width="75" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    <img align="center" alt="Rafa-numpy"   height="25" width="75" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+    <img align="center" alt="Rafa-matploit"   height="25" width="75" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   </p>
 </div>
 
@@ -36,10 +47,8 @@
     <img align="center" alt="Rafa-django" height="25" width="75" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
     <img align="center" alt="Rafa-flask" height="25" width="75" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
     <img align="center" alt="Rafa-postman" height="25" width="75" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-   
-    
+    <img align="center" alt="Rafa-postman"   height="25" width="75" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   </p>
-  
 </div>
 
 
