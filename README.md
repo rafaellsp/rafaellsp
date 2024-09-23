@@ -17,7 +17,7 @@
 
 ## 🐍 Ferramentas e Linguagens
 
-### Uso diario
+### Conhecimentos de Front-End
 <div style="display: inline_block">
   <p>
     <img align="center" alt="Rafa-html" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -26,11 +26,10 @@
     <img align="center" alt="Rafa-js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img align="center" alt="Rafa-git"  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <img align="center" alt="Rafa-github"  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-    <img align="center" alt="Rafa-excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </p>
 </div>
 
-### Conhecimento basico
+### Conhecimento de dados
 <div style="display: inline_block">
   <p>
     <img align="center" alt="Rafa-pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
@@ -38,10 +37,11 @@
     <img align="center" alt="Rafa-matploit" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
     <img align="center" alt="Rafa-jupyter"  src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
     <img align="center" alt="Rafa-powerbi"  src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white">
+      <img align="center" alt="Rafa-excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </p>
 </div>
 
-### Frameworks
+###  Conhecimentos de frameworks
 
 <div style="display: inline_block">
   <p>
